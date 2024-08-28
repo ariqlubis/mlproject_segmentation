@@ -1,0 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+mlflow
+hyperopt
+pandas-profiling
+umap
+umap-learn
