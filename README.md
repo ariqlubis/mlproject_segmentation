@@ -16,7 +16,6 @@ This project focuses on customer segmentation using Recency, Frequency, and Mone
 
 3. **Clustering with K-means**:
    - K-means clustering is applied to the normalized RFM data to segment customers.
-   - The optimal number of clusters is determined based on analysis.
 
 
 ## Prerequisites
